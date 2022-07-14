@@ -39,7 +39,7 @@ function countEvenNumbers(arrayOfNumbers) {
             count = count + 1
         }
     }
-    return count;
+    return count
 }
 assignment.countEvenNumbers = countEvenNumbers;
 
